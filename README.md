@@ -187,3 +187,4 @@ The Smart Expense Tracker is a simple and effective Java application that demons
 * Oracle Java Documentation
 * MySQL Official Documentation
 * JDBC API Documentation
+# Example
